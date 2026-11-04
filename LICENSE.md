@@ -1,6 +1,6 @@
 # MIRENG Applications End User License Agreement (EULA)
 
-*Last updated: June 20, 2026*
+*Last updated: November 2, 2026*
 
 ## Preamble
 
@@ -55,6 +55,10 @@ The software, including modules for data analytics, machine learning predictions
 ### Data Provision and Rights
 
 The User is solely responsible for ensuring that all data provided to the Software comply with applicable copyrights, intellectual property rights, and legal requirements, including data protection regulations (General Data Protection Regulation - GDPR, the California Consumer Privacy Act - CCPA, or other, as applicable to their use case) and any other relevant laws, and warrants that all data is appropriately licensed or cleared for use. Users are solely responsible for the safety and security of the data uploaded to this application, third-party libraries, and APIs. The Users must ensure that any data provided does not contain sensitive or confidential information and handle the programs' outputs responsibly and lawfully. The Company disclaims liability for any loss of data or outputs, or breaches. Users are also responsible for ensuring proper data storage practices and verifying whether the platform's storage is persistent. Users must take adequate measures to secure data against unauthorized access, loss, attacks, or breaches, and ensure compliance with applicable regulations and best practices for secure data storage and management.
+
+### Research Data and AI Analysis
+
+The Software comprises an independent research analysis tool, not affiliated with or endorsed by database providers, and does not grant access or rights to third-party research databases. The User is responsible for obtaining data lawfully and complying with applicable licenses, copyright, text-and-data-mining rules, and data protection laws. The User must ensure their AI processing environment meets applicable restrictions and independently verify generated findings and citations. The Company does not guarantee compliance with third-party licensing requirements. The User is solely responsible for determining whether any research data, analyses, findings, or AI-generated outputs may be lawfully and ethically published, shared, or redistributed, subject to applicable laws, licenses, and third-party rights.
 
 ### Limitation of Remedies
 
