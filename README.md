@@ -110,15 +110,14 @@ docker compose -f docker-compose-prod.yaml restart
 For unsloth/gemma-4-E4B-it use the following command:
 
 ```
-docker run --rm -t -v "hf-cache:/home/appuser/.cache/huggingface" mireng-apps-prod-image hf download unsloth--gemma-4-E4B-it-GGUF gemma-4-E4B-it-Q4_K_M.gguf" --revision bfc15c382204943c3a8fff0c750b94ae2364d7a3
+docker run --rm -t -v "hf-cache:/home/appuser/.cache/huggingface" mireng-apps-prod-image hf download unsloth/gemma-4-E4B-it-GGUF gemma-4-E4B-it-Q4_K_M.gguf mmproj-F16.gguf --revision bfc15c382204943c3a8fff0c750b94ae2364d7a3
 ```
 
 For unsloth/gemma-4-E2B-it use the following command:
 
 ```
-docker run --rm -t -v "hf-cache:/home/appuser/.cache/huggingface" mireng-apps-prod-image hf download unsloth--gemma-4-E2B-it-GGUF gemma-4-E2B-it-Q4_K_M.gguf" --revision 0314792d7f1f7e229411f620751375812bb9faf2
+docker run --rm -t -v "hf-cache:/home/appuser/.cache/huggingface" mireng-apps-prod-image hf download unsloth/gemma-4-E2B-it-GGUF gemma-4-E2B-it-Q4_K_M.gguf mmproj-F16.gguf --revision 0314792d7f1f7e229411f620751375812bb9faf2
 ```
-
 > Also, uncomment the corresponding line in `docker-compose-prod.yaml` for model and mmproj to enable the downloaded model, and comment out the Qwen model.
 
 You can download any other Hugging Face model accordingly.
