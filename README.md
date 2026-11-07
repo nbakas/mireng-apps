@@ -1,4 +1,3 @@
-
 # MIRENG Apps - Installation guide
 
 ![How to install MIRENG Apps on Windows](mireng-apps-install.gif)
