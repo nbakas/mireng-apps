@@ -1,5 +1,7 @@
 
-# Installing MIRENG Apps
+# MIRENG Apps - Installation guide
+
+![How to install MIRENG Apps on Windows](mireng-install.gif)
 
 The following instructions will guide you through installing and running Mireng Apps (https://mireng.ai/) using Docker.
 
